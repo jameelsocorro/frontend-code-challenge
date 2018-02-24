@@ -2,6 +2,8 @@
 
 A code challenge for front end development application in McMakler.
 
+![](https://i.imgur.com/qAkxBh0.gif)
+
 ## Implementation
 
 This is a Material Design inspired React+Redux Application.
@@ -10,7 +12,7 @@ JS Framework - I used [React](https://github.com/facebook/react) + [Redux](https
 
 CSS - I used [Styled Components](https://github.com/styled-components/styled-components) instead of using SASS because i could pass the props value and have conditions on displaying the CSS attributes so it's more easier to manipulate the UI.
 
-Test - I used [Mocha](https://github.com/mochajs/mocha) and [Chai-Jquery](https://github.com/chaijs/chai-jquery) on creating the test. Kindly review the test-util.js and all of the spec.js files for more info.
+Test - I used [Mocha](https://github.com/mochajs/mocha) and [Chai-Jquery](https://github.com/chaijs/chai-jquery) on creating the test.(Kindly review the test-util.js and all of the spec.js files for more info)
 
 I created all of the components from scratch except for the [Spinner](https://github.com/tsuyoshiwada/react-md-spinner). (Kindly see src/components folder for more info)
 
